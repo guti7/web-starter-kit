@@ -20,6 +20,10 @@
     "en": {
       "name": "Web Starter Kit",
       "description": "A front-end template that helps you build fast, modern mobile web apps."
+    },
+    "es": {
+      "name": "Equipo Inicial para Web",
+      "description": "Una planilla de front-end que ayuda a crear aplicaciónes web de una manera rápida, moderna, y móvil."
     }
   }
 }
